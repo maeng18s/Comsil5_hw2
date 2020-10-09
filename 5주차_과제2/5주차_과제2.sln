@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5주차_과제2", "5주차_과제2\5주차_과제2.vcxproj", "{E71FB5EF-2207-4430-87EE-416573E69D12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E71FB5EF-2207-4430-87EE-416573E69D12}.Debug|x64.ActiveCfg = Debug|x64
+		{E71FB5EF-2207-4430-87EE-416573E69D12}.Debug|x64.Build.0 = Debug|x64
+		{E71FB5EF-2207-4430-87EE-416573E69D12}.Debug|x86.ActiveCfg = Debug|Win32
+		{E71FB5EF-2207-4430-87EE-416573E69D12}.Debug|x86.Build.0 = Debug|Win32
+		{E71FB5EF-2207-4430-87EE-416573E69D12}.Release|x64.ActiveCfg = Release|x64
+		{E71FB5EF-2207-4430-87EE-416573E69D12}.Release|x64.Build.0 = Release|x64
+		{E71FB5EF-2207-4430-87EE-416573E69D12}.Release|x86.ActiveCfg = Release|Win32
+		{E71FB5EF-2207-4430-87EE-416573E69D12}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0526741E-0399-47B9-90BA-F52940F821B9}
+	EndGlobalSection
+EndGlobal
